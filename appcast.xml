@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Markdown</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 08 Oct 2026 11:31:55 +0200</pubDate>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Markdown 1.0</h2>
+<ul><li>Definitief Vouw-icoon en rustige native interface.</li><li>Notitiemap kiezen in Instellingen en hernoemen door dubbelklik op de titel.</li><li>Word-documenten, opgemaakte mailconcepten en opgemaakt kopiëren.</li><li>PDF-sleepkaart voor reMarkable en Markdownkopieën voor Yoink.</li><li>Nieuwe Things Inbox-taken met blijvende teruglinks naar de notitie.</li><li>Ondertekende updates via het gratis GitHub-updatekanaal.</li></ul>
+<p>Persoonlijke Apple Silicon-build voor macOS 14 of nieuwer, lokaal ondertekend zonder Apple-notarisering. Bij Word/mail blijven formules TeX-bron en voetnoten eindtekst. reMarkable vereist slepen of Import.</p>
+]]></description>
+            <enclosure url="https://github.com/tijmendus/markdown-macos-updates/releases/download/v1.0.0/Markdown-1.0.0.zip" length="4112689" type="application/octet-stream" sparkle:edSignature="/Tmo+pT0lIwEHPILjZX7n1UAAHNsi+5arHQ4oErdkWbBDAFYJ3pbrl0ED54/Sv6Fgvd2tgoBTNpS5XHFqiHSDQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: SGoTf8WubGWkvYSclc99RWoogJO2cYoA7AyxUofd8vWeAi4lJz1AswclPTBaKxJ2OE+Jb3eEgmAdyjwZmgC9CA==
+length: 1863
+-->
