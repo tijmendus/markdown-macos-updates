@@ -1,8 +1,36 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Markdown</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 15 Oct 2026 13:50:58 +0200</pubDate>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><title>Markdown 1.1.0</title></head><body>
+<h2>Twee notities naast elkaar</h2>
+<ul>
+<li>Open twee volledig bewerkbare Markdown-notities met het tweekolomsicoon rechtsboven of Command-\.</li>
+<li>Zoek een tweede notitie op titel, of kies in de zijbalk ‘Open in andere helft’.</li>
+<li>Interne notitielinks openen in de andere helft. Je cursor en toetsenbordfocus blijven in het brondocument.</li>
+<li>Iedere notitie heeft eigen undo, cursor, scrollpositie en bronmodus. Control-Tab wisselt de actieve helft.</li>
+<li>Sleep de scheiding om de verdeling te wijzigen. De app onthoudt de combinatie en posities per notitiemap.</li>
+<li>Focus toont tijdelijk alleen de actieve notitie; terugkeren herstelt beide helften.</li>
+</ul>
+<h2>Bewaren en betrouwbaarheid</h2>
+<p>Beide documenten worden vóór afsluiten, mapwissels en updates bewaard. Opslagconflicten houden de betreffende notitie open. De titelrijen zijn uitgelijnd met de macOS-vensterknoppen.</p>
+<p>147 automatische tests slagen. De nieuwe bediening is ook in de echte macOS-app gecontroleerd.</p>
+<p>Voor Apple Silicon en macOS 14 of nieuwer. Je eigen Markdown-bestanden en bestaande instellingen blijven behouden.</p>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/tijmendus/markdown-macos-updates/releases/download/v1.1.0/Markdown-1.1.0.zip" length="4260344" type="application/octet-stream" sparkle:edSignature="ftVIhyROyfby+E52/Sf1xWV4jhQBOi7w85tv+50g6H5pliYgOojpfn/Upc0mAXgJP2fSo3bNDyU/u46pqNDWAQ=="/>
+        </item>
         <item>
             <title>1.0.0</title>
             <pubDate>Thu, 08 Oct 2026 11:31:55 +0200</pubDate>
@@ -14,10 +42,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <ul><li>Definitief Vouw-icoon en rustige native interface.</li><li>Notitiemap kiezen in Instellingen en hernoemen door dubbelklik op de titel.</li><li>Word-documenten, opgemaakte mailconcepten en opgemaakt kopiëren.</li><li>PDF-sleepkaart voor reMarkable en Markdownkopieën voor Yoink.</li><li>Nieuwe Things Inbox-taken met blijvende teruglinks naar de notitie.</li><li>Ondertekende updates via het gratis GitHub-updatekanaal.</li></ul>
 <p>Persoonlijke Apple Silicon-build voor macOS 14 of nieuwer, lokaal ondertekend zonder Apple-notarisering. Bij Word/mail blijven formules TeX-bron en voetnoten eindtekst. reMarkable vereist slepen of Import.</p>
 ]]></description>
-            <enclosure url="https://github.com/tijmendus/markdown-macos-updates/releases/download/v1.0.0/Markdown-1.0.0.zip" length="4112689" type="application/octet-stream" sparkle:edSignature="/Tmo+pT0lIwEHPILjZX7n1UAAHNsi+5arHQ4oErdkWbBDAFYJ3pbrl0ED54/Sv6Fgvd2tgoBTNpS5XHFqiHSDQ=="></enclosure>
+            <enclosure url="https://github.com/tijmendus/markdown-macos-updates/releases/download/v1.0.0/Markdown-1.0.0.zip" length="4112689" type="application/octet-stream" sparkle:edSignature="/Tmo+pT0lIwEHPILjZX7n1UAAHNsi+5arHQ4oErdkWbBDAFYJ3pbrl0ED54/Sv6Fgvd2tgoBTNpS5XHFqiHSDQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: SGoTf8WubGWkvYSclc99RWoogJO2cYoA7AyxUofd8vWeAi4lJz1AswclPTBaKxJ2OE+Jb3eEgmAdyjwZmgC9CA==
-length: 1863
+</rss>
+<!-- sparkle-signatures:
+edSignature: HiBQcW2Yx1QiQadE61+2L0D1fqXGktIE7hsEVPCkfYld5d1kGOp0oYUKXF8NG7yr+c+6EskVKw3PJ6NXR414AA==
+length: 3861
 -->
